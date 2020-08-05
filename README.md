@@ -1,5 +1,5 @@
 # Novo-Nordisk---Patient-Prioritization-Model
-Year-long project with Novo Nordisk to develop a Patient Ranking Model for the company to prioritize targeting specific patients most receptive to taking the company's anti-obesity drug, Saxenda
+My team name is Impact Consulting Group (ICG) and this is a year-long project with Novo Nordisk to develop a Patient Ranking Model for the company to prioritize targeting specific patients most receptive to taking the company's anti-obesity drug, Saxenda
 
 <h2>Background</h2>
 
