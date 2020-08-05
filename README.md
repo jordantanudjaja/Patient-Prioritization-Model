@@ -13,3 +13,11 @@ Novo Nordisk (NN) is a leading global healthcare company that focuses on obesity
   <li>Combined both of the clustering models to classify each patient into one of 30 small buckets (1-A to 5-F). We analyzed each of these buckets to rank the top 15 according to how receptive each group of patients are to taking Saxenda, and designated similar buckets to higher-level categories.</li>
   <li>Recommended a few investment strategies and marketing campaigns to target certain patient categories over others, and justified those strategies by calculating estimated revenue earnings using NN’s patient investment data</li>
 </ol>
+
+<h2>Folders</h2>
+<ul>
+  <li><b>Final Report and Presentation:</b> Contains ICG's final report on the project and the Power Point presentation to the client</li>
+  <li><b>Jupyter Notebook and Data:</b> Contains Python code for the Data Cleaning, Machine Learning, and Data Visualization of the model, and excel and csv files for socioeconomic data up to year 2018 and plantrak data for Saxenda patients</li>
+  <li><b>SQL codes:</b> Contains SQL code in pdf format for the creation of the Patient Relational Database, comprised of patient-level data, prescriber-level data, and plantrak-level data</li>
+  <li><b>Tableau Heatmaps:</b> Contains Tableau files that showcases heatmaps of the 4 Patient Groups generated from the ranking model: Enthusiasts, Convertibles, Potentials, Rejects</li>
+</ul>
