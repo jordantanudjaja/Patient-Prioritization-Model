@@ -1,5 +1,5 @@
 # Novo-Nordisk---Patient-Prioritization-Model
-My team name is Impact Consulting Group (ICG) and this is a year-long project with Novo Nordisk to develop a Patient Ranking Model for the company to prioritize targeting specific patients most receptive to taking the company's anti-obesity drug, Saxenda
+This is a year-long collaborative project with Novo Nordisk to develop a Patient Ranking Model for the company to prioritize targeting specific patients most receptive to taking the company's anti-obesity drug, Saxenda
 
 <h2>Background</h2>
 
@@ -16,7 +16,7 @@ Novo Nordisk (NN) is a leading global healthcare company that focuses on obesity
 
 <h2>Folders</h2>
 <ul>
-  <li><b>Final Report and Presentation:</b> Contains ICG's final report on the project and the Power Point presentation to the client</li>
+  <li><b>Final Report and Presentation:</b> Contains the final report on the project and the Power Point presentation to the client</li>
   <li><b>Jupyter Notebook and Data:</b> Contains Python code for the Data Cleaning, Machine Learning, and Data Visualization of the model, and excel and csv files for socioeconomic data up to year 2018 and plantrak data for Saxenda patients</li>
   <li><b>SQL codes:</b> Contains SQL code in pdf format for the creation of the Patient Relational Database, comprised of patient-level data, prescriber-level data, and plantrak-level data</li>
   <li><b>Tableau Heatmaps:</b> Contains Tableau files that showcases heatmaps of the 4 Patient Groups generated from the ranking model: Enthusiasts, Convertibles, Potentials, Rejects</li>
